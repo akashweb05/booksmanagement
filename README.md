@@ -9,7 +9,7 @@ A full-stack app to manage books, with a React frontend and ASP.NET Core backend
 ## Tech Stack
 - Frontend: React.js 
 - Backend: ASP.NET Core Web Api(C#)  
-- Database: SQL Server (or your choice)
+- Database: SQL Server
   
 ## Setup
 
